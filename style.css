@@ -9,7 +9,7 @@ h1{
 .orange-c{
     color: orange;
 }
-section{
+.fle-c{
     display: flex;
     margin-bottom: 150px;
 }
@@ -42,3 +42,4 @@ section{
     padding-right: 150px;
     
 }
+
